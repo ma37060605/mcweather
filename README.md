@@ -1,5 +1,6 @@
 # mcweather
-准备开始自学Android了，看了CSDN郭霖大神的书和博客（http://blog.csdn.net/sinyu890807/article/category/1807611），决定开始认真跟着做一个小app了。
+准备开始自学Android了，看了CSDN郭霖大神的书和博客（http://blog.csdn.net/sinyu890807/article/category/1807611）。
+决定开始认真跟着做一个小app了。
 所以这是我的第一个github项目，就是大神书里面最后一个天气预报的小项目，由于《第一行代码》中的天气预报的api接口已经没了，网上找了找，找到一个新的接口于开发工作开始了。
 
 新接口获取城市代码都是返回xml格式的，不是书中的格式
