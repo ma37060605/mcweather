@@ -1,4 +1,6 @@
-package com.example.mcweather;
+package com.mcweather.app;
+
+import com.mcweather.app.R;
 
 import android.app.Activity;
 import android.os.Bundle;
