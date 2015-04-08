@@ -7,7 +7,7 @@
 XML接口根节点： http://flash.weather.com.cn/wmaps/xml/china.xml
 XML接口主要作用是递归获取全国几千个县以上单位的城市代码，如：
 江苏的XML地址为：http://flash.weather.com.cn/wmaps/xml/shanghai.xml
-苏州的XML地址为：http://flash.weather.com.cn/wmaps/xml/jiangsu.xml
+苏州的XML地址为：http://flash.weather.com.cn/wmaps/xml/suzhou.xml
 上面页面获得太仓city code：101190408
 
 最后根据城市代码获取天气信息的时候是返回json格式
